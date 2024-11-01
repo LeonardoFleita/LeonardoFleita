@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](https://res.cloudinary.com/drez01kou/image/upload/v1725120422/dixrqw7wdyiugvak1ya3.png)
+![Banner](https://res.cloudinary.com/drez01kou/image/upload/v1730420276/verd5wg5vyajnfrvmrvy.png)
 <!--
 **LeonardoFleita/LeonardoFleita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
