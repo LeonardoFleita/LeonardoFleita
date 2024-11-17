@@ -48,6 +48,16 @@
 ![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=for-the-badge&logo=javascript&logoColor=white)
 
+## 🎨 Diseño y Producción
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-DA291C?style=for-the-badge&logo=3dsmax&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302F2F?style=for-the-badge&logo=obs-studio&logoColor=white)
+![vMix](https://img.shields.io/badge/vMix-002C3E?style=for-the-badge&logo=vmix&logoColor=white)
+
+
 
 
 
