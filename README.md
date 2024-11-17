@@ -19,6 +19,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![JWT](https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
