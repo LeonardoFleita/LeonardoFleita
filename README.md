@@ -41,6 +41,7 @@
 ![Formik](https://img.shields.io/badge/FORMIK-%232563EB?style=for-the-badge&logo=formik&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-5E60CE?style=for-the-badge&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=for-the-badge&logo=javascript&logoColor=white)
 
 
