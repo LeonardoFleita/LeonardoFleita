@@ -20,6 +20,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white)
 ![JWT](https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=json&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76C7C0?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/SOCKET.IO-%23010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
