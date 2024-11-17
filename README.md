@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Banner](https://res.cloudinary.com/drez01kou/image/upload/v1730420276/verd5wg5vyajnfrvmrvy.png)
-
+<!--
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=HTML5&labelColor=%231f1f1f)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=%231572B6&labelColor=%231f1f1f)
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23CC6699&labelColor=%231f1f1f)
@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=%235FA04E&labelColor=%231f1f1f)
 
 
-<!--
+
 **LeonardoFleita/LeonardoFleita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
