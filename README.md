@@ -38,7 +38,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-![Formik](https://img.shields.io/badge/Formik-FF5733?style=for-the-badge&logoColor=white)
+![Formik](https://img.shields.io/badge/FORMIK-%232563EB?style=for-the-badge&logo=formik&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-5E60CE?style=for-the-badge&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=for-the-badge&logo=javascript&logoColor=white)
