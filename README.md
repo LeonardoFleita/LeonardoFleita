@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-# 💼 My Skills Portfolio
-
 Welcome to my portfolio! Here you can find a detailed overview of the tools, technologies, and frameworks I work with across various disciplines.
 
 ---
