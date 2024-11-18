@@ -19,6 +19,7 @@ Welcome to my portfolio! Here you can find a detailed overview of the tools, tec
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
@@ -45,7 +46,6 @@ Welcome to my portfolio! Here you can find a detailed overview of the tools, tec
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Formik](https://img.shields.io/badge/FORMIK-%232563EB?style=for-the-badge&logo=formik&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-5E60CE?style=for-the-badge&logoColor=white)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=for-the-badge&logo=javascript&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76C7C0?style=for-the-badge&logo=nodemon&logoColor=white)
 
 ---
