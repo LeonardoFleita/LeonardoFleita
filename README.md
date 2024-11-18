@@ -21,7 +21,7 @@ Welcome to my portfolio! Here you can find a detailed overview of the tools, tec
 
 ---
 
-## 🖥️ Back-End
+### 🖥️ Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -33,7 +33,7 @@ Welcome to my portfolio! Here you can find a detailed overview of the tools, tec
 
 ---
 
-## 🔧 Tools
+### 🔧 Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,7 +48,7 @@ Welcome to my portfolio! Here you can find a detailed overview of the tools, tec
 
 ---
 
-## 🎨 Design and Multimedia
+### 🎨 Design and Multimedia
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
