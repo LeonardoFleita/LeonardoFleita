@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/drez01kou/image/upload/v1730420276/verd5wg5vyajnfrvmrvy.png)
+![Banner](https://res.cloudinary.com/drez01kou/image/upload/v1740788842/enp6lb6j8gqdi6vhmmw9.png)
 
 ### Hi there 👋
 
